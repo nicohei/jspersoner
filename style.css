@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.img{
+    width: 100px;
+    height: 100px;
+}
+#person{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
