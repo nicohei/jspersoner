@@ -2,7 +2,7 @@
 <h1 align="center">test</h1>
 <div align="center">
   <h3>
-    <a href="https://github.com/roykenvgs/test">
+    <a href="https://github.com/nicohei/jspersoner">
       Lenken til prosjektet
     </a>
   </h3>
